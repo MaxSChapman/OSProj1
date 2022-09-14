@@ -1,0 +1,18 @@
+Example Successful Output:
+
+/Users/max/Documents/CPSC_Courses/CPSC_380/PA01_File_Information/cmake-build-debug/PA01_File_Information ../Chungus.txt
+I-node number:            18913833
+File Type:                Regular File
+User Name:                max
+Total Size:               55315 bytes
+Date Last Modified:       Mon Sep 12 14:57:47 2022
+
+
+Process finished with exit code 0
+
+Example Bad Output:
+
+/Users/max/Documents/CPSC_Courses/CPSC_380/PA01_File_Information/cmake-build-debug/PA01_File_Information ../brak
+Error: No such file or directory
+
+Process finished with exit code 1
