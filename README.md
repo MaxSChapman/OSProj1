@@ -10,12 +10,11 @@
 
 #### Known issues: None
 
-1.
-  Max Starreveld and Samuel Bernsen
-  Chapman ID# 2380029, 2367195
-  starreveld@chapman.edu
-  CPSC-380-02 (Springer)
-  Assignment 1: File Status
+1. Max Starreveld and Samuel Bernsen
+   Chapman ID# 2380029, 2367195
+   starreveld@chapman.edu
+   CPSC-380-02 (Springer)
+   Assignment 1: File Status
 
 2. Files Submitted
   filestat.cpp - Code file
