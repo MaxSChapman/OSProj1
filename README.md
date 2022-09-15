@@ -10,9 +10,9 @@
 
 #### Known issues: None
 
-1. Max Starreveld and Samuel Bernsen
-   Chapman ID# 2380029, 2367195
-   starreveld@chapman.edu
+1. Max Starreveld and Samuel Bernsen \n\t
+   Chapman ID# 2380029, 2367195 \n\t
+   starreveld@chapman.edu \n\t
    CPSC-380-02 (Springer)
    Assignment 1: File Status
 
@@ -31,6 +31,6 @@
   -https://www.ibm.com/docs/en/i/7.3?topic=ssw_ibm_i_73/apis/stat.htm
   -https://stackoverflow.com/questions/8268316/how-to-retrieve-the-user-name-from-the-user-id
 
-5. Run instructions
+5. Run instructions \n
 
   -Compile and run with 1 command line argument, the name of the file which you would like the stats for. Include the proper file path as necessary.
